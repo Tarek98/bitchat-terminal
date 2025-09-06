@@ -3,21 +3,27 @@
 
 <br/>
 
-## Introduction
+## Abstract
 
-From the description on [BitChat's GitHub page](https://github.com/permissionlesstech/bitchat), BitChat is a decentralized peer-to-peer messaging app with dual transport architecture: local Bluetooth mesh networks for offline communication and internet-based Nostr protocol for global reach. No accounts, no phone numbers, no central servers. It's the side-groupchat.
+BitChat is a messaging app that works both with or without internet access.
 
-## Why You Should Use BitChat
+When internet access is cutoff, it uses Bluetooth to connect nearby phones, creating a decentralized local network owned & maintained collectively by all users which means it can't be shut down by authorities. When internet access is available, it uses the Nostr protocol to connect to a global network of relay servers that are owned by both users and organizations and don't rely on a central server.
 
-**You should use BitChat because it has:**
+Traditional messaging apps like Whatsapp & Facebook Messenger depend on centralized infrastructure that can be monitored, censored, or disabled. Bitchat's approach provides censorship resistance, surveillance resistance, and infrastructure independence; The network remains functional during internet outages, natural disasters, protests, or in regions with limited connectivity.
+
+For security & privacy reasons, BitChat doesn't make use of accounts, phone numbers, or central servers. Instead, it uses the noise protocol for end-to-end encryption of all messages and identity verification, whereby a user is identified by random unique public key IDs and their chosen nickname on the app. Finally, BitChat uses a decentralized architecture where the users own the network collectively, as opposed to authoritative messaging platforms like Facebook or WhatsApp owned by Meta.
+
+For technical resources & up-to-date information, see [BitChat's GitHub page](https://github.com/permissionlesstech/bitchat).
+
+## Why Palestinians Should Use BitChat
 
 1. **Uninterrupted Communication**: When internet connectivity is unreliable or completely cut off, BitChat's Bluetooth mesh networking ensures you can still communicate with nearby users. This is crucial in areas where internet access is frequently disrupted.
 
-2. **Privacy and Security**: No phone numbers, no accounts, no central servers means your communications aren't stored on corporate servers or tied to your identity. Your messages stay between you and your intended recipients.
+2. **Privacy and Security**: No phone numbers, no accounts, no central servers means your communications aren't stored on corporate servers or tied to your identity. Your messages stay between you and your intended recipients. Because Bitchat is decentralized, it's not possible for any single entity to censor or surveil the network.
 
 3. **Dual Connectivity**: BitChat seamlessly switches between Bluetooth mesh (for local, offline communication) and internet-based Nostr protocol (for global reach), giving you the best of both worlds.
 
-4. **Decentralized Architecture**: Unlike traditional messaging apps that rely on central servers, BitChat operates on a peer-to-peer basis for the Bluetooth mesh protocol and it operates on relay servers for the internet-based Nostr protocol, making it resistant to censorship and server outages.
+4. **Geohash Channels**: BitChat shows a list of nearby geographic zone channels based on the user's location, which means that users can find each other easily and communicate with each other without having to know each other's phone numbers or usernames. Examples of such channels include the local mesh (10-50m radius), the local neighborhood (200-1200m radius), Gaza **city**, Palestine, or the entire Middle East.
 
 5. **No Infrastructure Dependencies**: You don't need to set up servers or rely on existing internet infrastructure. BitChat works with just the devices in your network if you don't have internet access & even with internet access, the Nostr protocol is decentralized via relay servers that anyone can setup on their own and doesn't rely on a central server.
 
@@ -77,4 +83,8 @@ From the description on [BitChat's GitHub page](https://github.com/permissionles
 
 BitChat represents a powerful tool for communities facing connectivity challenges. Its dual transport architecture makes it uniquely suited for environments where internet access is unreliable or restricted. By understanding when and how to use BitChat effectively, communities can maintain communication resilience even in the most challenging circumstances.
 
-The key is to view BitChat not as a replacement for traditional messaging apps, but as a complementary tool that fills critical gaps in communication infrastructure. When used strategically alongside other communication methods, BitChat can provide the reliability and privacy that modern communities need.
+## References & Citations
+
+- https://github.com/permissionlesstech/bitchat
+- ...
+- ...
