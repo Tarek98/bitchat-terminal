@@ -1,5 +1,7 @@
-### How Palestinians Can Leverage BitChat
+### How Palestinians Can Use BitChat
+A Messenger App For Secure Private Chatting With Or Without Internet Access
 #### Written By: The Tech For Palestine Community
+#### Last Modified: Sep 18, 2025
 
 <br/>
 
