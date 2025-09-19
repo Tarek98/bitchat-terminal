@@ -1,48 +1,9 @@
-# How Palestinians Can Use BitChat  
-*A Messenger App for Secure Private Chatting With or Without Internet Access*  
-**Written By: Tech For Palestine Community**  
-**Last Updated: Sep 18, 2025**  
 
----
+> ⚠️ On Android, this feature is still buggy — messages may be sent to everyone, not just the channel.  
 
-## What is BitChat?  
+9. For private messaging: tap the **people icon** (top-right). A side panel will open with users. Select one to start a private chat (color changes from green → orange).  
+> ⚠️ Private messaging is available, but still requires full security review.  
 
-BitChat is a messenger that works **with or without internet**:  
-
-- **Without internet**: uses Bluetooth to create a **local mesh network** that can’t be shut down.  
-- **With internet**: connects through the **Nostr protocol**, a global decentralized network.  
-
-Unlike WhatsApp or Messenger, BitChat:  
-- Doesn’t need phone numbers or accounts  
-- Doesn’t rely on central servers  
-- Encrypts all messages with the **Noise Protocol**  
-- Identifies users by **public key ID + nickname**  
-
-👉 Resistant to **censorship, surveillance, and shutdowns**.  
-
----
-
-## Why Palestinians Should Use BitChat  
-
-1. **Stay Connected During Outages** – Works even if internet is cut off.  
-2. **Privacy & Security** – No numbers, accounts, or corporate servers.  
-3. **Dual Connectivity** – Switches between mesh (local) and Nostr (global).  
-4. **Geohash Channels** – Join location-based chats (e.g., Gaza City, Palestine).  
-5. **No Extra Setup** – Just phones, no servers required.  
-
----
-
-## How to Use BitChat 
-1. Install the bitchat application.
-2. After granting the necessary permissions, you should land at a similar screen. The messages shown      below would not be there.
-![Alt text](./Screenshot%202025-09-19%20at%205.31.06 PM.png)
-3. In "bitchat/@symbolic" your username is "@symbolic". It can be changed by clicking on it.
-4. Besides it is "#mesh". This is the location based channel name. "#mesh" is the default channel name.
-5. You can click on it . It will list all the available channels to chat in. Ignore the channels besides "mesh". They are only available when connected to the internet.
-![Alt text](./Screenshot%202025-09-19%20at%205.56.10 PM.png)
-6. To the right og  the "type a message..." box is a "slash" icon in a circle. It is used for commands. It will open the following command menu.
-![Alt text](./Screenshot%202025-09-19%20at%209.28.19 PM.png)
-7. Besides each command, it's usage is listed.
 ---
 
 ## When to Use BitChat  
@@ -59,15 +20,15 @@ Unlike WhatsApp or Messenger, BitChat:
 
 - **Long-distance chats** (other apps may be better)  
 - **Large files or video calls**  
-- **If you need message history** (no server storage)  
+- **If you need message history** (BitChat stores nothing on servers)  
 - **Emergency services** (use official channels if available)  
-- **Highly sensitive info** (private messages not fully audited)  
+- **Highly sensitive info** (private messaging not fully audited)  
 
 ---
 
 ## Conclusion  
 
-BitChat is a **censorship-resistant tool** for Palestinians and others under restricted internet.  
+BitChat is a **censorship-resistant tool** for Palestinians and others facing restricted internet.  
 By learning when and how to use it, communities can **stay connected, safe, and independent** — even in the toughest conditions.  
 
 **More info**: [BitChat GitHub](https://github.com/permissionlesstech/bitchat)  
