@@ -36,20 +36,20 @@ Unlike WhatsApp or Messenger, BitChat:
 
 1. Install the BitChat application.  
 2. After granting the necessary permissions, you will land on a screen similar to this (your messages list will be empty):  
-   ![Main Screen](./Screenshot%202025-09-19%20at%205.31.06 PM.png)  
+   ![Main Screen](./Screenshot%202025-09-19%20at%205.31.06 PM.png)  
 3. In **`bitchat/@symbolic`**, your username is `@symbolic`. You can change it by clicking on it.  
 4. Next to it is **`#mesh`**, which is the default location-based channel.  
 5. Tap on it to see all available channels. Ignore channels other than `mesh` unless you’re connected to the internet.  
-   ![Channel List](./Screenshot%202025-09-19%20at%205.56.10 PM.png)  
+   ![Channel List](./Screenshot%202025-09-19%20at%205.56.10 PM.png)  
 6. To the right of the **“type a message...”** box is a **slash icon** inside a circle. Tap it to open the command menu:  
-   ![Commands](./Screenshot%202025-09-19%20at%209.28.19 PM.png)  
+   ![Commands](./Screenshot%202025-09-19%20at%209.28.19 PM.png)  
 7. Each command has its usage listed.  
 8. You can create a new channel using:  
 
 
-> ⚠️ On Android, this feature is still buggy — messages may be sent to everyone, not just the channel.  
+> ⚠️ On Android, this feature is still buggy — messages are sent to everyone, not just the channel.  
 
-9. For private messaging: tap the **people icon** (top-right). A side panel will open with users. Select one to start a private chat (color changes from green → orange).  
+9. For private messaging: click on the `people icon` (top-right). A side panel will open with users. Click on any one to start a private chat. When you are in private chat, the color will change from **`green`** to **`orange`**.
 > ⚠️ Private messaging is available, but still requires full security review.  
 
 ---
