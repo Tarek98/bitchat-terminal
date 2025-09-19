@@ -34,10 +34,14 @@ Unlike WhatsApp or Messenger, BitChat:
 
 ## How to Use BitChat 
 1. Install the bitchat application.
-2. You should land at a similar screen. The messages shown below would not be there.
+2. After granting the necessary permissions, you should land at a similar screen. The messages shown      below would not be there.
+
 ![Alt text](./Screenshot%202025-09-19%20at%205.31.06 PM.png)
-
-
+3. In "bitchat/@symbolic" your username is "@symbolic". It can be changed by clicking on it.
+4. Besides it is "#mesh". This is the location based channel name. "#mesh" is the default channel name.
+5. You can click on it . It will list all the available channels to chat in. Ignore the channels besides "mesh". They are only available when connected to the internet.
+![Alt text](./Screenshot%202025-09-19%20at%205.56.10 PM.png)
+6. 
 ---
 
 ## When to Use BitChat  
