@@ -41,17 +41,14 @@ Unlike WhatsApp or Messenger, BitChat:
 4. Next to it is **`#mesh`**, which is the default location-based channel.  
 5. Tap on it to see all available channels. Ignore channels other than `mesh` unless you’re connected to the internet.  
    ![Channel List](./Screenshot%202025-09-19%20at%205.56.10 PM.png)  
-6. To the right of the **“type a message...”** box is a **slash icon** inside a circle. Tap it to open the command menu:  
-   ![Commands](./Screenshot%202025-09-19%20at%209.28.19 PM.png)  
-7. Each command has its usage listed.  
-8. You can create a new channel using:  
-
-
+6. To the right of the **“type a message...”** box is a **slash icon** inside a circle. Tap it to open the command menu. Each command has its usage listed.
+   ![Commands](./command-menu.png)   
+7. You can create a new channel using **`/join <channel-name>`** command. For example by typing **`/join xyz`** you will join channel **`xyz`**. It will also create the channel **`xyz`** if not already created.
+8. A channel is just like a WhatsApp group. After joining you can message to only users inside it.
 > ⚠️ On Android, this feature is still buggy — messages are sent to everyone, not just the channel.  
-
 9. For private messaging: click on the `people icon` (top-right). A side panel will open with users. Click on any one to start a private chat. When you are in private chat, the color will change from **`green`** to **`orange`**.
+   ![Private Chat](./private-chat.png)
 > ⚠️ Private messaging is available, but still requires full security review.  
-
 ---
 
 ## When to Use BitChat  
