@@ -1,3 +1,51 @@
+# How Palestinians Can Use BitChat  
+*A Messenger App for Secure Private Chatting With or Without Internet Access*  
+**Written By: Tech For Palestine Community**  
+**Last Updated: Sep 18, 2025**  
+
+---
+
+## What is BitChat?  
+
+BitChat is a messenger that works **with or without the internet**:  
+
+- **Without internet**: Uses Bluetooth to create a **local mesh network** that cannot be shut down.  
+- **With internet**: Connects through the **Nostr protocol**, a global decentralized network.  
+
+Unlike WhatsApp or Messenger, BitChat:  
+- Doesn’t require phone numbers or accounts  
+- Doesn’t rely on central servers  
+- Encrypts all messages with the **Noise Protocol**  
+- Identifies users by **public key ID + nickname**  
+
+👉 Resistant to **censorship, surveillance, and shutdowns**.  
+
+---
+
+## Why Palestinians Should Use BitChat  
+
+1. **Stay Connected During Outages** – Works even if internet is cut off.  
+2. **Privacy & Security** – No numbers, accounts, or corporate servers.  
+3. **Dual Connectivity** – Switches between mesh (local) and Nostr (global).  
+4. **Geohash Channels** – Join location-based chats (e.g., Gaza City, Palestine).  
+5. **No Extra Setup** – Just phones, no servers required.  
+
+---
+
+## How to Use BitChat  
+
+1. Install the BitChat application.  
+2. After granting the necessary permissions, you will land on a screen similar to this (your messages list will be empty):  
+   ![Main Screen](./Screenshot%202025-09-19%20at%205.31.06 PM.png)  
+3. In **`bitchat/@symbolic`**, your username is `@symbolic`. You can change it by clicking on it.  
+4. Next to it is **`#mesh`**, which is the default location-based channel.  
+5. Tap on it to see all available channels. Ignore channels other than `mesh` unless you’re connected to the internet.  
+   ![Channel List](./Screenshot%202025-09-19%20at%205.56.10 PM.png)  
+6. To the right of the **“type a message...”** box is a **slash icon** inside a circle. Tap it to open the command menu:  
+   ![Commands](./Screenshot%202025-09-19%20at%209.28.19 PM.png)  
+7. Each command has its usage listed.  
+8. You can create a new channel using:  
+
 
 > ⚠️ On Android, this feature is still buggy — messages may be sent to everyone, not just the channel.  
 
